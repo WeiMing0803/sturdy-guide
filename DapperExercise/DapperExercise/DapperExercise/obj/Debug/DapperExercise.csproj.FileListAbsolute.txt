@@ -1,0 +1,10 @@
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\bin\Debug\DapperExercise.exe.config
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\bin\Debug\DapperExercise.exe
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\bin\Debug\DapperExercise.pdb
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\bin\Debug\Dapper.dll
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\bin\Debug\Dapper.xml
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\obj\Debug\DapperExercise.csprojAssemblyReference.cache
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\obj\Debug\DapperExercise.csproj.CoreCompileInputs.cache
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\obj\Debug\DapperExercise.csproj.CopyComplete
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\obj\Debug\DapperExercise.exe
+D:\Work\Training\DapperExercise\DapperExercise\DapperExercise\obj\Debug\DapperExercise.pdb
